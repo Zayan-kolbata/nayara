@@ -27,26 +27,26 @@ function Others() {
       {/* Left Text Section */}
       <div className="md:w-1/2 text-left">
         <h2 className="text-yellow-500 text-xl md:text-2xl font-semibold tracking-wide uppercase">
-          Luxurious Others at Niara
+          Luxurious Others at nayra
         </h2>
         <p className="text-gray-300 text-lg mt-4 leading-relaxed">
           Welcome to
-          <span className="text-yellow-400 font-semibold">Niara</span>, where
-          elegance meets tranquility. Nestled in the heart of a serene tropical
-          paradise, our boutique resort offers an unparalleled experience of
-          luxury and comfort.
+          <span className="text-yellow-400 font-semibold">&nbsp;nayra</span>,
+          where elegance meets tranquility. Nestled in the heart of a serene
+          tropical paradise, our boutique resort offers an unparalleled
+          experience of luxury and comfort.
         </p>
         <p className="text-gray-400 text-lg mt-4 leading-relaxed">
           Each of our meticulously designed suites and villas is a sanctuary of
           sophistication, featuring modern amenities, stunning oceanfront views,
           and personalized services that redefine hospitality. Whether you seek
-          a peaceful retreat or a romantic getaway, Niara promises an
+          a peaceful retreat or a romantic getaway, nayra promises an
           unforgettable stay.
         </p>
         <p className="text-gray-500 text-lg mt-4 leading-relaxed">
           Indulge in world-class spa treatments, savor exquisite culinary
           delights, and immerse yourself in the warmth of our bespoke
-          hospitality. Your dream escape awaits at Niara.
+          hospitality. Your dream escape awaits at nayra.
         </p>
       </div>
 

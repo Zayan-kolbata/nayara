@@ -47,7 +47,7 @@ function HygienicToilets() {
           Hygienic Toilets
         </h2>
         <p className="text-gray-300 text-base sm:text-lg md:text-xl mt-4 leading-relaxed">
-          At <span className="font-semibold">Niara</span>, we believe that
+          At <span className="font-semibold">nayra</span>, we believe that
           luxury extends beyond the bedroom. Our meticulously designed{" "}
           <span className="font-semibold">hygienic toilets</span> offer a
           sanctuary of cleanliness, comfort, and elegance.

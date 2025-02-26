@@ -16,14 +16,14 @@ function Footer() {
           <h3 className="text-yellow-500 text-lg md:text-xl font-semibold uppercase">
             Address
           </h3>
-          <p>Niara Hotel, Manali</p>
+          <p>Rohtang Rd., Manali</p>
         </div>
       </div>
 
       {/* Copyright Section */}
       <div className="mt-8 text-center">
         <p className="text-gray-400 text-sm md:text-base">
-          &copy; {new Date().getFullYear()} Niara Hotel. All rights reserved.
+          &copy; {new Date().getFullYear()} nayra Hotel. All rights reserved.
           Designed with care to provide you with an exceptional experience.
         </p>
       </div>
